@@ -1,0 +1,20 @@
+name,ring,quadrant,isNew,description
+TensorFlow,Trial,Techniques,TRUE,An end-to-end open-source platform for machine learning.
+PyTorch,Trial,Techniques,TRUE,An open-source machine learning library based on the Torch library.
+Hugging Face Transformers,Trial,Techniques,TRUE,A library of state-of-the-art machine learning models.
+OpenTelemetry,Adopt,Techniques,TRUE,"A set of APIs that allow developers to collect, process, and export telemetry data."
+IndexedDB,Assess,Platforms,TRUE,"A low-level API for client-side storage of structured data, including files, blobs, and large amounts of data."
+webGPU API,Assess,Platforms,TRUE,A web standard and JavaScript API for performing high-performance graphics and computation on the GPU.
+Web Components,Adopt,Languages & Frameworks,TRUE,A suite of technologies allowing for the creation of reusable custom elements.
+Supabase,Trial,Platforms,TRUE,An open-source Firebase alternative providing backend services.
+shadcn,Assess,Languages & Frameworks,TRUE,A component library built on Tailwind CSS.
+RemixJS,Adopt,Languages & Frameworks,TRUE,A full stack web framework that enables you to build and deploy server-rendered React applications.
+NextJS,Adopt,Languages & Frameworks,TRUE,A React framework for building single-page applications.
+Gemini Nano,Assess,Platforms,TRUE,A platform for developing and deploying scalable nano services.
+Edge Functions,Trial,Techniques,TRUE,"Serverless functions that run at the edge, close to your users."
+Security Champions,Adopt,Techniques,TRUE,A strategy to promote security practices within development teams.
+Opilot,Adopt,Tools,TRUE,A privacy-first AI assistant that runs entirely in the browser.
+ONNX,Trial,Techniques,TRUE,Open Neural Network Exchange for interoperable AI models.
+Mixtral,Assess,Techniques,TRUE,A platform for developing secure and scalable applications.
+LangChain,Trial,Languages & Frameworks,TRUE,A framework for developing applications with large language models.
+Copilot,Hold,Tools,TRUE,"GitHub Copilot is an AI-powered code completion tool that provides suggestions and code snippets to developers as they write code. However, there are significant privacy concerns as it sends code snippets to an external server for processing, potentially exposing proprietary or sensitive code. Additionally, Copilot's training on public repositories raises questions about code ownership and the inclusion of potentially sensitive information in its suggestions."
