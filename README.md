@@ -28,3 +28,7 @@ Programming languages and frameworks that we use to build our applications.
 - **Trial**: Technologies that we are currently experimenting with and evaluating for future adoption.
 - **Assess**: Technologies that we are exploring but have not yet started trialing.
 - **Hold**: Technologies that we are not currently considering due to various concerns such as privacy, security, or maturity.
+
+## Resources
+
+- [Tech Radar on Thoughtworks](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2FOpilot-Labs%2Ftechnology-radar%2Fmain%2Fsrc%2FOpilot%2520Labs%2520Technology%2520Radar.csv)
